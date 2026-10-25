@@ -1,0 +1,4 @@
+name: AzuriteGraves
+version: 1.0
+main: pl.twojnick.graves.Graves
+api-version: "1.21"
